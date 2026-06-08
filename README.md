@@ -70,7 +70,7 @@
 
 ## 📚 Обучение
 |<img height="500" src="media/aqa_cert_eng.png"/>|
-|<img height="450" src="media/python_cert.png"/>|
+|<img height="350" src="media/python_cert.png"/>|
 
 
 
