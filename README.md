@@ -55,7 +55,7 @@
 ## Работа с базами данных
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-  <img src="media/dbeaver.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
+  <img src="media/dbeaver.png" title="DBeaver" alt="DBeaver" width="60" height="60"/>&nbsp
 </div>
 
 <br>
