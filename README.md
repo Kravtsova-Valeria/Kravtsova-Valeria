@@ -63,7 +63,7 @@
 ## ✨Мои проекты:
 | API My Shows Rating |  API Битва покемонов | UI Битва покемонов |
 |---------------------|----------------------|--------------------|
-|[my-shows-api-tests](Ссылка)|[pokemonbattle-api-tests](Ссылка)   | [pokemonbattle-e2e-tests](Ссылка)   
+|[my-shows-api-tests](https://github.com/Kravtsova-Valeria/myshows_api_tests.git)|[pokemonbattle-api-tests](https://github.com/Kravtsova-Valeria/pokemonbattle_api_tests.git)   | [pokemonbattle-e2e-tests](https://github.com/Kravtsova-Valeria/pokemonbattle_e2e_tests.git)   
 | Pytest, Requests, Docker|Pytest, Requests, Gitlab CI| Selenium, Gitlab CI|
 
 <br>
